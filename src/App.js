@@ -1,7 +1,12 @@
+import Items from "./pages/Items";
+import "./App.css"
 
 function App() {
+
   return (
-   <div></div>
+   <div>
+   <Items/>
+   </div>
    
   );
 }
